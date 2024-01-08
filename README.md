@@ -5,5 +5,7 @@ In this project, I scraped data from the internet on NBA team statistics from th
 
 After having conducted data management, analysis, and visualization, conveying important concepts and outcomes to expert and non-expert interactors alike was done through a written report in the style of a scientific research paper. This included an abstract, Introduction, Methods, Results, and Conclusions/Implications for the reader to draw as much insight as possible from the contents of this research project.
 
+## Contents:
 *finalproject_rai01.html*: R Markdown file of the entire data management, analysis, and visualization life-cycle.
+
 *Final paper_srai01.pdf*: A written report in the style of a scientific research paper documenting the project background, hypothesis, methodology, results, and conclusions and implications.
